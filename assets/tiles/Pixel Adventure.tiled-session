@@ -1,0 +1,75 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 334.6666666666667,
+                "y": 172.66666666666669
+            }
+        },
+        "Level-02.tmx": {
+            "scale": 1.4205468749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 296.71671341362816,
+                "y": 183.73205741626796
+            }
+        },
+        "Level-02.tmx#Pixel Adventure": {
+            "scaleInDock": 1
+        },
+        "Level-03.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.5,
+                "y": 184
+            }
+        },
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/dinos/Desktop/adventure_game/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Level-02.tmx",
+        "Level-03.tmx",
+        "Pixel Adventure.tsx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "recentFiles": [
+        "Pixel Adventure.tsx",
+        "Level-03.tmx",
+        "Level-02.tmx",
+        "Level-01.tmx",
+        "level-03.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
